@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/search_page.dart';
+
+import 'search_page.dart';
 
 class LandingPage extends StatelessWidget {
   const LandingPage({super.key});
