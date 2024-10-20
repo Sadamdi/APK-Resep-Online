@@ -1,6 +1,6 @@
 # Dessertphoria 🍰
 
-Dessertphoria is a web-based platform that offers a collection of delightful dessert recipes. This project is part of the IT Incubation program, developed by **Group 1 of GDSC**.
+Dessertphoria is a Android APP platform that offers a collection of delightful dessert recipes. This project is part of the IT Incubation program, developed by **Group 1 of GDSC**.
 
 ## Project Overview
 This project provides users with an easy-to-use interface to browse through various dessert recipes. The recipes are fetched from the public API [DummyJSON](https://dummyjson.com), providing sample data to showcase functionality.
