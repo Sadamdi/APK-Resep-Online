@@ -11,7 +11,7 @@ This project provides users with an easy-to-use interface to browse through vari
 - Simple and elegant UI for easy navigation.
 
 ## Technologies Used
-- **Frontend:** Flutter (Web)
+- **Frontend:** Flutter (Web and App)
 - **Backend:** API integration with DummyJSON
 - **Version Control:** Git & GitHub
 
