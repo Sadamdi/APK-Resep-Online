@@ -55,7 +55,7 @@ class _SearchPageState extends State<SearchPage> {
                   controller: _searchController,
                   decoration: InputDecoration(
                     prefixIcon: const Icon(Icons.search),
-                    hintText: 'Type your ingredients',
+                    hintText: 'Find your perfect recipe here!',
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(12),
                     ),

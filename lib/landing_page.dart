@@ -13,7 +13,7 @@ class LandingPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Dessertphoria',
+              'Tastify',
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
